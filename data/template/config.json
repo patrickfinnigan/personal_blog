@@ -1,11 +1,11 @@
 {
   "url": "https://calpa.me",
   "meta": {
-    "favicon": "https://i.imgur.com/PO9Y4fT.jpg",
+    "favicon": "https://i.imgur.com/W2f2xyC.png",
     "keyword": "calpa, blog, JavaScript",
     "description": "Calpa 的技術博客，開發日常，以及遇到的坑",
     "theme_color": "#384f7c",
-    "google_site_verification": "riZBcestky7i9xY__A-5J-2EE65T75X1u-zgbss37Io"
+    "google_site_verification": "n/a"
   },
   "name": "calpa",
   "about": "/2018/05/01/about-calpa-liu/",
@@ -15,16 +15,7 @@
     "title": "過去三十日數據",
     "description": "過去三十日數據"
   },
-  "title": "Calpa 的技術博客",
-  "gitalk": {
-    "repo": "calpa.github.io",
-    "admin": ["calpa"],
-    "owner": "calpa",
-    "clientID": "18255f031b5e11edd98a",
-    "clientSecret": "2ff6331da9e53f9a91bcc991d38d550c85026714",
-    "pagerDirection": "first",
-    "distractionFreeMode": true
-  },
+  "title": "Patrick's Blog ",
   "License": "by",
   "friends": [
     {
@@ -32,13 +23,13 @@
       "title": "Calpa's Blog"
     }
   ],
-  "iconUrl": "https://i.imgur.com/kjt2x52.jpg",
-  "wordings": ["GatsbyJS, ReactJS", "全週期開發者"],
+  "iconUrl": "https://i.imgur.com/W2f2xyC.png",
+  "wordings": ["Writings, Videos, and other Good Stuff"],
   "gaTrackId": "UA-84737574-3",
   "navbarList": [
     {
       "href": "/guestbook/",
-      "title": "留言簿"
+      "title": "guestbook"
     },
     {
       "href": "/tags/",
@@ -46,7 +37,7 @@
     },
     {
       "href": "/2018/05/01/about-calpa-liu/",
-      "title": "關於作者"
+      "title": "About"
     }
   ],
   "redirectors": [
